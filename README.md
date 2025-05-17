@@ -8,3 +8,6 @@ This repo has following collab excercises
 4. [Understand Embeddings and implement RAG with Similarity_Search.ipynb](./RAG_using_Embeddings_and_Similarity_Search.ipynb)
 5. [Fine Tuning](/FineTuning.ipynb)
 
+Follow the detailed article [here](https://medium.com/aipractices/fomo-to-flow-building-gen-ai-solutions-d8fccd917aec)
+![Image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*a68MqIZAZfDfCSZY41Xqsw.jpeg)
+
